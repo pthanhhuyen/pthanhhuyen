@@ -56,7 +56,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "Nhớ follow kênh tiktok @p.thanhhuyen_ ✨",
                     body: "Cảm ơn các bạn đã sử dụng dịch vụ bên mình 💛",
-                    imageURL: "https://i.ibb.co/gZ6HkyWT/L-n-Gold-R-i.png"
+                    //imageURL: "https://i.ibb.co/gZ6HkyWT/L-n-Gold-R-i.png"
                 }
             ],
             primary_button_title: "Xong",
